@@ -1,0 +1,58 @@
+# Miscellaneous
+*.DS_Store
+*.iml
+*.log
+.idea/
+.vscode/
+
+# Build files
+/build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.pub-cache/
+.pubspec.lock
+
+# IDE files
+/.idea
+/.vscode
+
+# Android related files
+**/android/build/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/gradle-wrapper.jar
+**/android/.gradle
+**/android/captures/
+
+# iOS related files
+**/ios/Pods/
+**/ios/Flutter/Flutter.framework/
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/App.framework/
+**/ios/Flutter/App.xcconfig
+**/ios/Flutter/Flutter-Debug.xcconfig
+**/ios/Flutter/Flutter-Release.xcconfig
+**/ios/Flutter/Flutter.pri
+**/ios/Flutter/Flutter.pch
+**/ios/Flutter/Flutter.prefix
+**/ios/Flutter/FlutterInfo.plist
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/FlutterMacOS.framework/
+**/ios/Flutter/FlutterMacOS.podspec
+**/ios/Flutter/Release.xcconfig
+**/ios/Flutter/ephemeral/.symlinks/
+**/ios/Flutter/ephemeral/Flutter.framework/
+**/ios/Flutter/ephemeral/Flutter.podspec
+**/ios/Flutter/ephemeral/FlutterAssets.xcassets/
+**/ios/Flutter/ephemeral/flutter_export_environment.sh
+**/ios/Flutter/ephemeral/gen_snapshot
+**/ios/Flutter/ephemeral/flutter_tools.stamp
+
+# Android Studio
+**/.android/
+**/.android/build-cache/
